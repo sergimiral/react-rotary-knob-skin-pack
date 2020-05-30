@@ -1,3 +1,4 @@
+export {default as s0} from './skins/s0'
 export {default as s1} from './skins/s1'
 export {default as s2} from './skins/s2'
 export {default as s3} from './skins/s3'
